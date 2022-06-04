@@ -1,0 +1,7 @@
+python==3.7.10
+jupyter==1.0.0
+numpy==1.20.1
+pandas==1.2.4
+apyori==1.1.2
+dataprep==0.4.1
+arff==2.4.0
